@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|c:\\users\\laris\\source\\repos\\windowsformsapp1\\forms\\formcontasareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:forms\\formcontasareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\forms\\formcontasapagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:forms\\formcontasapagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\forms\\formcontasapagar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:forms\\formcontasapagar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\services\\validaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:services\\validaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\forms\\formcontasareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:forms\\formcontasareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\models\\contareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:models\\contareceber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\models\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B491EE30-DCC1-4AEB-8AAE-040D3F1BE359}|WindowsFormsApp1.csproj|solutionrelative:models\\contabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormContasAPagar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAPagar.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormContasAPagar.Designer.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAPagar.Designer.cs",
+              "RelativeToolTip": "Forms\\FormContasAPagar.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwL0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:09:05.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidaConta.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Services\\ValidaConta.cs",
+              "RelativeDocumentMoniker": "Services\\ValidaConta.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Services\\ValidaConta.cs",
+              "RelativeToolTip": "Services\\ValidaConta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:27:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormContasAReceber.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAReceber.cs",
+              "RelativeDocumentMoniker": "Forms\\FormContasAReceber.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAReceber.cs [Design]",
+              "RelativeToolTip": "Forms\\FormContasAReceber.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:22:12.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormContasAReceber.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAReceber.cs",
+              "RelativeDocumentMoniker": "Forms\\FormContasAReceber.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAReceber.cs",
+              "RelativeToolTip": "Forms\\FormContasAReceber.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:59:36.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormContasAPagar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAPagar.cs",
+              "RelativeDocumentMoniker": "Forms\\FormContasAPagar.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Forms\\FormContasAPagar.cs [Design]",
+              "RelativeToolTip": "Forms\\FormContasAPagar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:40:55.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaReceber.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Models\\ContaReceber.cs",
+              "RelativeDocumentMoniker": "Models\\ContaReceber.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Models\\ContaReceber.cs",
+              "RelativeToolTip": "Models\\ContaReceber.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:42:36.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaBase.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Models\\ContaBase.cs",
+              "RelativeDocumentMoniker": "Models\\ContaBase.cs",
+              "ToolTip": "C:\\Users\\laris\\source\\repos\\WindowsFormsApp1\\Models\\ContaBase.cs",
+              "RelativeToolTip": "Models\\ContaBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T01:17:13.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
